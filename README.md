@@ -36,7 +36,7 @@ The following tools were used in the creation of this report.
 1. **Microsoft Excel:** For data cleaning and preparation.
        
 2. **Microsoft Power BI:**
-   * Further Data Processing: including data loading, quality inspection, sorting and transformation. This required the use of the following DAX functions:
+ * Further Data Processing: including data loading, quality inspection, sorting and transformation. This required the use of the following DAX functions:
    
       ```DAX
        = Table.ReplaceValue(#"Sorted Rows","Y","Yes",Replacer.ReplaceText,{"Answered (Y/N)"})
@@ -54,7 +54,7 @@ The following tools were used in the creation of this report.
        = Table.ReplaceValue(#"Replaced Value1",null,1,Replacer.ReplaceValue,{"Satisfaction rating"})
       ```
 
-   * Data Analysis: Several Custom Columns and Measures were created in the Power Query during analysis of said data.
+ * Data Analysis: Several Custom Columns and Measures were created in the Power Query during analysis of said data.
      
     **Custom Columns**
   
