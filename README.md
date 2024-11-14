@@ -7,7 +7,7 @@ This data analysis was done for the PricewaterhouseCooper (PwC) Job Simulation p
 [Methods](#methods)
 [Findings](#findings)
 [Visualizations](#visualizations)
-
+[Conclusion](#conclusion)
 ## Call KPIs for PhoneNow 
 ### Overview
 ---
@@ -124,3 +124,9 @@ After a conclusive analysis of the Call Center Dataset, the following findings w
 ### Visualizations
 ---
 ![image](https://github.com/kayeneii/PwC-PhoneNow/blob/main/PWC_PhoneNow%20Call%20KPIs.png)
+
+
+### Conclusion
+---
+You made it to the end of the PhoneNow Call Center analysis.🥳
+Until my next report, you may find me [here.](https://www.linkedin.com/in/kayeneii/) I look forward to hearing from you.😄
