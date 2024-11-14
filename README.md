@@ -26,21 +26,18 @@ To extract information on the following:
    * Overall calls answered/abandoned
    * Calls by time
    * Average speed of answer
+   * Missed call rate
    * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 
 ### Methods
 ---
 The following tools were used in the creation of this report.
-- **Microsoft Excel:** For data cleaning and preparation, initial exploration, and visualization.
-  1. Data Cleaning and Preparation:
-     - Data loading and inspection
-     - Data cleaning
+1. **Microsoft Excel:** For data cleaning and preparation.
        
-- **Microsoft Power BI:** For,
-  1. Further Data Processing:
-     - Data loading and quality inspection
-     - Data sorting and transformation:
+2. **Microsoft Power BI:**
+   * Further Data Processing: including data loading, quality inspection, sorting and transformation. This required the use of the following DAX functions:
+   
       ```DAX
        = Table.ReplaceValue(#"Sorted Rows","Y","Yes",Replacer.ReplaceText,{"Answered (Y/N)"})
      
@@ -57,7 +54,7 @@ The following tools were used in the creation of this report.
        = Table.ReplaceValue(#"Replaced Value1",null,1,Replacer.ReplaceValue,{"Satisfaction rating"})
       ```
 
-  2. Data Analysis: Several Custom Columns and Measures were created in the Power Query during analysis of said data:
+   * Data Analysis: Several Custom Columns and Measures were created in the Power Query during analysis of said data.
      
     **Custom Columns**
   
@@ -103,11 +100,9 @@ The following tools were used in the creation of this report.
   Target Value Satisfaction = 4
   ```
 
- 3. Data Visualizations: Cards, Bar, Pie and Donut Charts was used to visually plot out the subscription service rates,  customer account and demographic information, among other summarized data.
+ * Data Visualizations: Guage, Matrix, Cards, Area and Bar Charts were used to visualize customer satisfaction, answered and resolved call rates, agent statistics, overall calls, call topics and other summarized data.
 
-- **GitHUb:** For,
-  - Portfolio Building
-  - Communication
+3. **GitHUb:** For portfolio building and communication.
 
 
 ### Findings and Recommendations
