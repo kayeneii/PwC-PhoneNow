@@ -100,6 +100,7 @@ The following tools were used in the creation of this report.
   Target Value Satisfaction = 4
   ```
 
+
  * Data Visualizations: Guage, Matrix, Cards, Area and Bar Charts were used to visualize customer satisfaction, answered and resolved call rates, agent statistics, overall calls, call topics and other summarized data.
 
 3. **GitHUb:** For portfolio building and communication.
