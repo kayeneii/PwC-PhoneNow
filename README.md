@@ -109,3 +109,8 @@ The following tools were used in the creation of this report.
 ### Findings and Recommendations
 ---
 1. **Findings:** Following the conclusive analysis of the Churn Dataset, the following findings were made:
+
+
+### Visualizations
+---
+![image](https://github.com/kayeneii/PwC-PhoneNow/blob/main/PWC_PhoneNow%20Call%20KPIs.png)
