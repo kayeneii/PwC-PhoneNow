@@ -2,10 +2,10 @@
 This data analysis was done for the PricewaterhouseCooper (PwC) Job Simulation program.
 
 [Overview](#overview)
-[Dataset](#dataset)
+[Data Source](#data-source)
 [Objectives](#objectives)
 [Methods](#methods)
-[Findings and Recommendations](#findings-and-recommendations)
+[Findings](#findings)
 [Visualizations](#visualizations)
 
 ## Call KPIs for PhoneNow 
@@ -14,9 +14,9 @@ This data analysis was done for the PricewaterhouseCooper (PwC) Job Simulation p
 The goal of this analysis is to derive key performance indicators for a telecommunications company, PhoneNow, to understand the overall customer satisfaction level, resolved call rate, call agent performance and other relevant metrics.This analysis would help improve customer service and relations.
 
 
-### Dataset
+### Data Source
 ---
-The dataset used in generating this report was obtained from the _PricewaterhouseCooper_ (PWC) Power BI Job Simulation Program. See [Forage](https://www.theforage.com/virtual-experience/a87GpgE6tiku7q3gu/pw-c-switzerland/power-bi-cqxg/introduction) for more.
+The dataset used in generating this report is the Call-Center Dataset.xlsx procured from the _PricewaterhouseCooper_ (PWC) Power BI Job Simulation Program. See [Forage](https://www.theforage.com/virtual-experience/a87GpgE6tiku7q3gu/pw-c-switzerland/power-bi-cqxg/introduction) for more.
 
 
 ### Objectives
@@ -106,9 +106,19 @@ The following tools were used in the creation of this report.
 3. **GitHUb:** For portfolio building and communication.
 
 
-### Findings and Recommendations
+### Findings
 ---
-1. **Findings:** Following the conclusive analysis of the Churn Dataset, the following findings were made:
+After a conclusive analysis of the Call Center Dataset, the following findings were made:
+  * Average customer satisfaction was 2.76, falling short of the 4.0 target.
+  * A total number of 5000 calls were made to the Call Center.
+  * 18.92% of these calls were missed.
+  * The total rate of answered calls was 81.08%.
+  * The call agents failed to resolve 27.08% of the calls received.
+  * Received calls were the highest on January 11.
+  * The least number of calls received was on March 31.
+  * The average speed of answer is 55.69 seconds.
+  * Of the total calls received, 1,022 were regarding Streaming, making it the most popular topic.
+  * Jim had the highest number of resolved calls and an average satisfaction rating of 3.4. 
 
 
 ### Visualizations
