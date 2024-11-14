@@ -16,7 +16,7 @@ The goal of this analysis is to derive key performance indicators for a telecomm
 
 ### Dataset
 ---
-The dataset used in generating this report was obtained from the _Pricewaterhouse Cooper_ (PWC) Power BI Job Simulation Program. See [Forage](https://www.theforage.com/virtual-experience/a87GpgE6tiku7q3gu/pw-c-switzerland/power-bi-cqxg/introduction) for more.
+The dataset used in generating this report was obtained from the _PricewaterhouseCooper_ (PWC) Power BI Job Simulation Program. See [Forage](https://www.theforage.com/virtual-experience/a87GpgE6tiku7q3gu/pw-c-switzerland/power-bi-cqxg/introduction) for more.
 
 
 ### Objectives
