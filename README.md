@@ -11,8 +11,8 @@ This data analysis was done for the PricewaterhouseCooper (PwC) Job Simulation p
 ## Call KPIs for PhoneNow 
 ### Overview
 ---
-The goal of this analysis is to derive key performance indicators for a telecommunications company, PhoneNow, to understand the overall customer satisfaction level, resolved call rate, call agent performance and other relevant metrics.This analysis would help improve customer service and relations.
-
+The purpose of this analysis was to derive key performance indicators for a telecommunications company called PhoneNow, that help them understand the overall customer satisfaction level, resolved call rate, call agent performance and other relevant metrics obtainable from the data provided. The goal is to help improve customer service and relations by
+communicating my findings in a manner that can easily be understood by technical and non-technical staff.
 
 ### Data Source
 ---
